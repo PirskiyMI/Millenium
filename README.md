@@ -1,3 +1,3 @@
 # Millenium
  Training project on layout "Millenium".
-Githob Pages: https://pirskiymi.github.io/Millenium/
+Github Pages: https://pirskiymi.github.io/Millenium/
